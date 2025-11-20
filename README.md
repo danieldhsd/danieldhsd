@@ -13,21 +13,20 @@
 <img height= "35" src= "https://img.shields.io/badge/Spring-6DB33F?style=plastic&logo=spring&logoColor=white">
 <img height= "35" src= "https://img.shields.io/badge/Spring_Boot-6DB33F?style=plastic&logo=springboot&logoColor=white">
 <img height= "35" src= "https://img.shields.io/badge/Spring_Security-6DB33F?style=plastic&logo=springsecurity&logoColor=white">
-<img height= "35" src= "https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic&logo=javascript&logoColor=black">
+<img height= "35" src= "https://img.shields.io/badge/Spring_Data-6DB33F?style=plastic&logo=springboot&logoColor=white">
 <img height= "35" src= "https://img.shields.io/badge/Hibernate-59666C?style=plastic&logo=hibernate&logoColor=white">
 <img height= "35" src= "https://img.shields.io/badge/MySQL-4479A1?style=plastic&logo=mysql&logoColor=white">
-<img height= "35" src= "https://img.shields.io/badge/PostgreSQL-4169E1?style=plastic&logo=postgresql&logoColor=white">
+<img height= "35" src= "https://img.shields.io/badge/MongoDB-4EA94B?style=plastic&logo=mongodb&logoColor=white">
 <img height= "35" src= "https://img.shields.io/badge/Docker-2496ED?style=plastic&logo=docker&logoColor=white">
 <img height= "35" src= "https://img.shields.io/badge/Git-F05032?style=plastic&logo=git&logoColor=white">
 <img height= "35" src= "https://img.shields.io/badge/GitHub-181717?style=plastic&logo=github&logoColor=white">
 <img height= "35" src= "https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=white">
-<img height= "35" src= "https://img.shields.io/badge/Ubuntu-E95420?style=plastic&logo=ubuntu&logoColor=white">
 <img height= "35" src= "https://img.shields.io/badge/JUnit_5-25A162?style=plastic&logo=junit5&logoColor=white">
-<img height= "35" src= "https://img.shields.io/badge/json-5E5C5C?style=plastic&logo=json&logoColor=white">
-<img height= "35" src= "https://img.shields.io/badge/Swagger-85EA2D?style=plastic&logo=swagger&logoColor=white">
-<img height= "35" src= "https://img.shields.io/badge/Apache_Maven-C71A36?style=plastic&logo=ApacheMaven&logoColor=white">
-<img height= "35" src= "https://img.shields.io/badge/Apache_Tomcat-F8DC75?style=plastic&logo=ApacheTomcat&logoColor=white">
-
+<img height= "35" src= "https://img.shields.io/badge/Maven-C71A36?style=plastic&logo=ApacheMaven&logoColor=white">
+<img height= "35" src= "https://img.shields.io/badge/Tomcat-F8DC75?style=plastic&logo=ApacheTomcat&logoColor=white">
+<img height= "35" src= "https://img.shields.io/badge/Kafka-231F20?style=plastic&logo=apachekafka&logoColor=white">
+<img height= "35" src= "https://img.shields.io/badge/RabbitMQ-FF6600?style=plastic&logo=rabbitmq&logoColor=white">
+<img height= "35" src= "https://img.shields.io/badge/Dynatrace-FF6600?style=plastic&logo=dynatrace&logoColor=white">
 
 </br>
 
@@ -37,9 +36,6 @@
 <img height= "35" src= "https://img.shields.io/badge/Angular-DD0031?style=plastic&logo=Angular&logoColor=white">
 <img height= "35" src= "https://img.shields.io/badge/Bootstrap-7952B3?style=plastic&logo=bootstrap&logoColor=white">
 <img height= "35" src= "https://img.shields.io/badge/Kubernetes-1572B6?style=plastic&logo=kubernetes&logoColor=white">
-<img height= "35" src= "https://img.shields.io/badge/Apache_Kafka-231F20?style=plastic&logo=apachekafka&logoColor=white">
-<img height= "35" src= "https://img.shields.io/badge/RabbitMQ-FF6600?style=plastic&logo=rabbitmq&logoColor=white">
-<img height= "35" src= "https://img.shields.io/badge/MongoDB-4EA94B?style=plastic&logo=mongodb&logoColor=white">
 <img height= "35" src= "https://img.shields.io/badge/Sentry-362D59?style=plastic&logo=sentry&logoColor=white">
 <img height= "35" src= "https://img.shields.io/badge/SonarQube-4E9BCD?style=plastic&logo=sonarqube&logoColor=white">
 <img height= "35" src= "https://img.shields.io/badge/Nginx-009639?style=plastic&logo=nginx&logoColor=white">
